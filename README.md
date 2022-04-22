@@ -1,6 +1,7 @@
-청각장애인을 위한 AI 수화인식 프로그램 설계입니다.
-딥러닝 YOLO5로 아메리칸 수화동작을 파이토치로 학습시킵니다. 
-그 후 아나콘다 GUI CAM을 활용하여 수화동작을 인식하여 문장으로 출력해냅니다.
+프로젝트 설명  <br>
+청각장애인을 위한 AI 수화인식 프로그램 설계입니다. <br>
+딥러닝 YOLO5로 아메리칸 수화동작을 파이토치로 학습시킵니다. <br> 
+그 후 아나콘다 GUI CAM을 활용하여 수화동작을 인식하여 문장으로 출력해냅니다. <br>
 
 # DeepLeraning_-![Slide1](https://user-images.githubusercontent.com/86208370/163018278-3af0151b-4c6b-47a2-8192-88f9d5d61bea.jpg)
 ![Slide2](https://user-images.githubusercontent.com/86208370/163018281-297028e6-e467-4958-a440-a63beb7aa415.jpg)
