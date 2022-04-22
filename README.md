@@ -3,7 +3,8 @@
 딥러닝 YOLO5로 아메리칸 수화동작을 파이토치로 학습시킵니다. <br> 
 그 후 아나콘다 GUI CAM을 활용하여 수화동작을 인식하여 문장으로 출력해냅니다. <br>
 
-# 학습주기 : 200에폭
+# 학습주기 <
+: 200에폭
 
 
 ![Slide1](https://user-images.githubusercontent.com/86208370/163018278-3af0151b-4c6b-47a2-8192-88f9d5d61bea.jpg)
