@@ -6,6 +6,8 @@
 # 학습주기 
 : 200에폭
 
+# 확장예정
+: 프로그램으로 프로토 타입 예정
 
 ![Slide1](https://user-images.githubusercontent.com/86208370/163018278-3af0151b-4c6b-47a2-8192-88f9d5d61bea.jpg)
 ![Slide2](https://user-images.githubusercontent.com/86208370/163018281-297028e6-e467-4958-a440-a63beb7aa415.jpg)
